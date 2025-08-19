@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.db
+
+# Build
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+
+# Cache
+*.cache
+*.pdb
+*.mdb
+*.log
+
+# Rider / VS Code
+.idea/
+.vscode/
